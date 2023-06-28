@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  basePath: "/app/layvote2023",
+  // basePath: "/app/layvote2023",
   reactStrictMode: true,
   images: {
     unoptimized: true,
